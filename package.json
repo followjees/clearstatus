@@ -1,1 +1,25 @@
-ewogICJuYW1lIjogImNsZWFyc3RhdHVzIiwKICAidmVyc2lvbiI6ICIwLjEuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJzY3JpcHRzIjogewogICAgImRldiI6ICJuZXh0IGRldiIsCiAgICAiYnVpbGQiOiAibmV4dCBidWlsZCIsCiAgICAic3RhcnQiOiAibmV4dCBzdGFydCIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAibHVjaWRlLXJlYWN0IjogIl4wLjQ0Ny4wIiwKICAgICJuZXh0IjogIjE1LjIuNCIsCiAgICAicmVhY3QiOiAiXjE5LjAuMCIsCiAgICAicmVhY3QtZG9tIjogIl4xOS4wLjAiLAogICAgInp1c3RhbmQiOiAiXjUuMC4yIgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJAdGFpbHdpbmRjc3MvcG9zdGNzcyI6ICJeNC4wLjAiLAogICAgIkB0eXBlcy9ub2RlIjogIl4yMCIsCiAgICAiQHR5cGVzL3JlYWN0IjogIl4xOSIsCiAgICAiQHR5cGVzL3JlYWN0LWRvbSI6ICJeMTkiLAogICAgInRhaWx3aW5kY3NzIjogIl40LjAuMCIsCiAgICAidHlwZXNjcmlwdCI6ICJeNSIKICB9Cn0K
+{
+  "name": "clearstatus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lucide-react": "^0.447.0",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5"
+  }
+}
